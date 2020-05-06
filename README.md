@@ -10,6 +10,7 @@ This is an *acessible*, *informative* and *adaptive* résumé for my client D. T
 
 ## Links 
 - [GitHub Pages](https://lenazelenaya.github.io/homepage/)
+- [Now for GitHub](zelly.now.sh)
 
 ***
 Thanks for CSS framework @volodymyr-kushnir ([volodymyrkushnir.com](https://volodymyrkushnir.com/))
